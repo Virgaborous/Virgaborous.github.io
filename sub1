@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>subtopic1</title>
+</head>
+<body bgcolor="#ff66ff">
+
+<br>
+<br>
+
+
+<table>
+<tr valign=middle>
+	<th colspan=100><IMG SRC=""></th>
+	<th colspan=100><IMG SRC=""></th>
+	<th colspan=100><IMG SRC=""></th>
+
+<center><b><font face="Parade"><font size=+4>Stuff I like.</font></font></b></center>
+
+
+<table cols=4 width="100%">
+<tr>
+
+<td bgcolor="#fff8080">
+<center><b><font face="Parade"><font size=+1><a href="cartoonsindex.html"
+target="_top&quot;">HOME</a></font></b></center>
+</td>
+
+<td bgcolor="#ffcc99">
+<center><b><font face="Old English Text MT"><font size=+1><a href="subtopic1.html"
+target="_top&quot;">SUBTOPIC 1</a></font></b></center>
+</td>
+
+<td bgcolor="#ff99ff">
+<center><b><font face="Comic Sans MS"><font size=+1><a href="subtopic2.html"
+target="_top&quot;">SUBTOPIC 2</a></font></b></center>
+</td>
+
+<td bgcolor="#66ffff">
+<center><b><font face="Jokerman"><font size=+1><a href="subtopic3.html"
+target="_top&quot;">SUBTOPIC 3</a></font></b></center>
+</td>
+</tr>
+</table>
+<b><font face="Parade"><font size=+1>I like to watch anime and read manga at home during my free time. Some of my favorite anime are One Piece, Naruto, Pokemon, Dragon Ball Bleach. I also like to watch Rooterteeth videos on youtube.</font></font></b>
+
+
+</body>
+</html>
